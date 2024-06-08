@@ -1,0 +1,18 @@
+{
+     "css.autoValidation": "Save",
+     "[html]": {
+          "editor.suggest.insertMode": "replace",
+          "breadcrumbs.showBooleans": true,
+           "breadcrumbs.showEvents": true,
+           "breadcrumbs.showEnumMembers": true,
+           "breadcrumbs.showClasses": true,
+           "breadcrumbs.showFields": true,
+           "breadcrumbs.showArrays": true,
+           "breadcrumbs.showConstants": true,
+           "breadcrumbs.showConstructors": true,
+           "breadcrumbs.showEnums": true,
+"breadcrumbs.showFiles": true,
+"breadcrumbs.showInterfaces": true,
+"breadcrumbs.showKeys": true
+     }
+}
